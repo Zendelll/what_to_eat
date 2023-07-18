@@ -4,23 +4,125 @@
         "cuisine_type": "Японская, Американская",
         "distance": "Близко",
         "can_deliver": "True",
-        "can_eat_inside": "False",
-        "site": "https://sushiburgers.ru/"
+        "can_eat_inside": "False"
     },
     "YamiYami": {
         "product_type": "Роллы, Разное",
-        "cuisine_type": "Японская, Разная",
+        "cuisine_type": "Японская, Европейская",
         "distance": "Близко",
         "can_deliver": "True",
-        "can_eat_inside": "False",
-        "site": "https://yamiyami.ru/"
+        "can_eat_inside": "False"
     },
-    "": {
-        "product_type": "",
-        "cuisine_type": "",
-        "distance": "",
+    "Вкусно - и точка": {
+        "product_type": "Бургеры, Фастфуд",
+        "cuisine_type": "Американская",
+        "distance": "Средне",
         "can_deliver": "False",
-        "can_eat_inside": "True",
-        "site": ""
+        "can_eat_inside": "True"
+    },
+    "KETCH UP": {
+        "product_type": "Бургеры",
+        "cuisine_type": "Американская",
+        "distance": "Средне",
+        "can_deliver": "True",
+        "can_eat_inside": "True"
+    },
+    "Тайяки": {
+        "product_type": "Японские блюда",
+        "cuisine_type": "Японская",
+        "distance": "Средне, Далеко",
+        "can_deliver": "True",
+        "can_eat_inside": "True"
+    },
+    "Akiba Ramen": {
+        "product_type": "Рамен",
+        "cuisine_type": "Японская",
+        "distance": "Далеко",
+        "can_deliver": "True",
+        "can_eat_inside": "False"
+    },
+    "Chang": {
+        "product_type": "Том Ям",
+        "cuisine_type": "Тайская",
+        "distance": "Средне, Далеко",
+        "can_deliver": "True",
+        "can_eat_inside": "True"
+    },
+    "Bros BurritoS": {
+        "product_type": "Буррито",
+        "cuisine_type": "Мексиканская",
+        "distance": "Средне, Далеко",
+        "can_deliver": "True",
+        "can_eat_inside": "True"
+    },
+    "Italiani": {
+        "product_type": "Пицца, Паста",
+        "cuisine_type": "Итальянская",
+        "distance": "Далеко",
+        "can_deliver": "True",
+        "can_eat_inside": "True"
+    },
+    "KFC": {
+        "product_type": "Бургеры, Фастфуд",
+        "cuisine_type": "Американская",
+        "distance": "Близко",
+        "can_deliver": "False",
+        "can_eat_inside": "True"
+    },
+    "Burger King": {
+        "product_type": "Бургеры, Фастфуд",
+        "cuisine_type": "Американская",
+        "distance": "Близко",
+        "can_deliver": "False",
+        "can_eat_inside": "True"
+    },
+    "Шаверма от Грузина": {
+        "product_type": "Шаверма",
+        "cuisine_type": "Шаверма",
+        "distance": "Близко",
+        "can_deliver": "False",
+        "can_eat_inside": "True"
+    },
+    "Шаверма от мастера Шера": {
+        "product_type": "Шаверма",
+        "cuisine_type": "Шаверма",
+        "distance": "Близко",
+        "can_deliver": "False",
+        "can_eat_inside": "True"
+    },
+    "Ramen Shifu": {
+        "product_type": "Рамен",
+        "cuisine_type": "Китайская",
+        "distance": "Средне",
+        "can_deliver": "True",
+        "can_eat_inside": "True"
+    },
+    "Slurp Ramen Bar": {
+        "product_type": "Рамен",
+        "cuisine_type": "Японская",
+        "distance": "Средне",
+        "can_deliver": "True",
+        "can_eat_inside": "True"
+    },
+    "Додо пицца": {
+        "product_type": "Пицца, Фастфуд",
+        "cuisine_type": "Американская",
+        "distance": "Близко",
+        "can_deliver": "True",
+        "can_eat_inside": "True"
+    },
+    "Достаевский": {
+        "product_type": "Роллы, Бургеры, Разное",
+        "cuisine_type": "Американская, Японская",
+        "distance": "Близко",
+        "can_deliver": "True",
+        "can_eat_inside": "False"
+    },
+    "Tokio city": {
+        "product_type": "Роллы, Бургеры, Паста, Пицца, Разное",
+        "cuisine_type": "Американская, Японская, Итальянская",
+        "distance": "Средне",
+        "can_deliver": "True",
+        "can_eat_inside": "True"
     }
 }
