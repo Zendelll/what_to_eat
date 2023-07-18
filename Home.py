@@ -3,6 +3,15 @@ import json
 import os
 from random import randint
 
+
+#    "": {
+#        "product_type": "",
+#        "cuisine_type": "",
+#        "distance": "",
+#        "can_deliver": "",
+#        "can_eat_inside": ""
+#    }
+
 st.set_page_config(
     page_title="Что покушать?",
     page_icon="🍔",
@@ -60,6 +69,8 @@ if __name__ == "__main__":
                 continue
             if check_elements(selected_cuisines, content["cuisine_type"]) and check_elements(selected_products, content["product_type"]) and check_elements(selected_distance, content["distance"]):
                 selected_places_table.append(place)
+        st.success(selected_places_table[randint(0, len(selected_places_table) - 1)])
+        st.success(selected_places_table[randint(0, len(selected_places_table) - 1)])
         st.success(selected_places_table[randint(0, len(selected_places_table) - 1)])
             
 
