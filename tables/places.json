@@ -1,0 +1,26 @@
+{
+    "S&B": {
+        "product_type": "Роллы, Бургеры",
+        "cuisine_type": "Японская, Американская",
+        "distance": "Близко",
+        "can_deliver": "True",
+        "can_eat_inside": "False",
+        "site": "https://sushiburgers.ru/"
+    },
+    "YamiYami": {
+        "product_type": "Роллы, Разное",
+        "cuisine_type": "Японская, Разная",
+        "distance": "Близко",
+        "can_deliver": "True",
+        "can_eat_inside": "False",
+        "site": "https://yamiyami.ru/"
+    },
+    "": {
+        "product_type": "",
+        "cuisine_type": "",
+        "distance": "",
+        "can_deliver": "False",
+        "can_eat_inside": "True",
+        "site": ""
+    }
+}
